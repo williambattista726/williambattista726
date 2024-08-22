@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer with skills in various 
 - 🌐 **React** (for building user interfaces)
 - 📦 **Express.js** (for backend development)
 - 🔗 **Flask** (for Python web applications)
-- 🏗️ **Bootstrap** (for responsive design)
-- 🚀 **Spring Boot** (some experience with Java)
 - ⚙️ **Electron** (for building desktop apps)
 
 Thanks for visiting my profile! Feel free to explore my repositories and projects. 😊
