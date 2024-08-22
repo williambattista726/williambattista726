@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm bb123
 
-<!--
-**williambattista726/williambattista726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with skills in various programming languages and frameworks. Here's a little about what I know:
 
-Here are some ideas to get you started:
+## 🛠️ Languages
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 🐍 **Python**
+- ☕ **Java** (some)
+- 🟢 **Node.js**
+- 💻 **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Frameworks
+- 🌐 **React** (for building user interfaces)
+- 📦 **Express.js** (for backend development)
+- 🔗 **Flask** (for Python web applications)
+- 🏗️ **Bootstrap** (for responsive design)
+- 🚀 **Spring Boot** (some experience with Java)
+- ⚙️ **Electron** (for building desktop apps)
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects. 😊
